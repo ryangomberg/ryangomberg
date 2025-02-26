@@ -20,7 +20,7 @@ I am an Undergraduate Applied/Computational Math Major at UC Irvine, graduating 
 
 [Math 140A: Elementary Analysis I Notes](https://ryangomberg.github.io/ryangomberg/140A%20Review.pdf)
 
-[Math 112B: Intro to PDEs II Notes](https://ryangomberg.github.io/ryangomberg/112B%20Updated%3.21.pdf)
+[Math 112B: Intro to PDEs II Notes](https://ryangomberg.github.io/ryangomberg/112B%20Final.pdf)
 
 ## Winter 2023
 
