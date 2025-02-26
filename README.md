@@ -18,6 +18,8 @@ I am an Undergraduate Applied/Computational Math Major at UC Irvine, graduating 
 
 ## Winter 2024
 
+[Math 140A: Elementary Analysis I Notes](https://ryangomberg.github.io/ryangomberg/140A%20Review.pdf)
+
 [Math 112B: Intro to PDEs II Notes](https://ryangomberg.github.io/ryangomberg/112B%20%Updated%3.21.pdf)
 
 ## Winter 2023
