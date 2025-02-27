@@ -1,6 +1,6 @@
 ## Ryan Gomberg
 
-I am an Undergraduate Applied/Computational Math Major at UC Irvine, graduating Spring 2025. Below you can find work for current and previous classes in their most recent incarnation.
+Welcome to my webpage! I am an Undergraduate Applied/Computational Math Major at UC Irvine, graduating Spring 2025. Below you can find work for current and previous classes in their most recent incarnation.
 
 ## Winter 2025
 
