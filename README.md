@@ -8,8 +8,6 @@ Welcome to my webpage! I am an Undergraduate Applied/Computational Math Major at
 
 [Math 176: Mathematics of Finance Notes (Updated March 2, 2025)](https://ryangomberg.github.io/ryangomberg/Math%20176%20Notes.pdf)
 
-(To be published) Math 178: Data Analysis on Bank Marketing Dataset
-
 ## Spring 2024
 
 [Math 140B: Elementary Analysis II Notes](https://ryangomberg.github.io/ryangomberg/140B%20Notes.pdf)
