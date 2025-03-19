@@ -4,6 +4,7 @@ Welcome to my webpage! I am an Undergraduate Applied/Computational Math Major at
 
 ## Winter 2025
 
+[Math 178: Mathematical Machine Learning Notes (Updated March 18, 2025)](https://ryangomberg.github.io/ryangomberg/Math%20178%20Review.pdf)
 
 [Math 176: Mathematics of Finance Notes (Final)](https://ryangomberg.github.io/ryangomberg/Math%20176%20Notes.pdf)
 
