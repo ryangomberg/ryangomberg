@@ -1,6 +1,8 @@
+---
 title: Ryan Gomberg
 theme: jekyll-theme-minimal
-filename: README.md
+filename: index.md
+---
 ---
 title: Experience
 layout: jekyll-theme-minimal
