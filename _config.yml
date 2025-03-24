@@ -1,10 +1,16 @@
----
 title: Ryan Gomberg
-theme: jekyll-theme-minimal
-filename: index.md
----
----
-title: Experience
-layout: jekyll-theme-minimal
-filename: Resume.md
---- 
+description: >-
+  A simple Jekyll-based GitHub Pages site.
+theme: jekyll-theme-minimal  
+baseurl: ""  
+url: "https://yourusername.github.io" 
+
+header_pages:
+  - index.md
+  - resume.md
+
+markdown: kramdown 
+
+plugins:
+  - jekyll-seo-tag  
+  - jekyll-sitemap  
