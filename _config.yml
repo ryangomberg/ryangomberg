@@ -1,16 +1,2 @@
 title: Ryan Gomberg
-description: >-
-  Um
-theme: jekyll-theme-minimal  
-baseurl: ""  
-url: "https://yourusername.github.io" 
-
-header_pages:
-  - index.md
-  - resume.md
-
-markdown: kramdown 
-
-plugins:
-  - jekyll-seo-tag  
-  - jekyll-sitemap  
+theme: jekyll-theme-minimal
