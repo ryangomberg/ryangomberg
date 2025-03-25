@@ -3,7 +3,7 @@
 
 Welcome to my webpage! I am an Undergraduate Applied/Computational Mathematics Major at UC Irvine, graduating Spring 2025. Refer to the above links for my resume and work/projects! 
 
-My current interests have been in Data Science/Machine Learning and Finance! I have experience with working and handling projects in a personal and team setting, as well as managing timelines and task coordination. I am keen to leverage academic experience and contribute to successful projects in a professional environment.
+My current interests are in Data Science/Machine Learning and Finance! I have experience with working and handling projects in a personal and team setting, as well as managing timelines and task coordination. I am keen to leverage academic experience and contribute to successful projects in a professional environment.
 
 #### Technical Skills: R, MATLAB, Python, Excel, LaTeX
 
@@ -48,4 +48,4 @@ B.S., Applied and Computational Mathematics | University of California, Irvine (
 -	Analytically derived and offered mathematical intuition behind each model
 -	Supervised learning models achieved 86-88% accuracy
 
-Within these projects, I demonstrated an elementary understanding of using Python/SQL as a programming language, LaTeX as a word processing software, and MATLAB to generate models and plots.
+Within these projects, I demonstrated an understanding of using Python/SQL as a programming language, LaTeX as a word processing software, and MATLAB to generate models and plots.
