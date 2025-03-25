@@ -8,7 +8,7 @@ My current interests have been in Data Science/Machine Learning and Finance! I h
 #### Technical Skills: R, MATLAB, Python, Excel, LaTeX
 
 ## Education
-- B.S., Applied and Computational Mathematics | University of California, Irvine (_Expected June 2025_)
+B.S., Applied and Computational Mathematics | University of California, Irvine (_Expected June 2025_)
 - Cumulative GPA: 3.49
 - Made the Deans Honor List 7 times
 - Relevant Coursework: Mathematical Machine Learning, Statistics for Data Science, Numerical Analysis, Mathematics of Finance, Fixed Income, Probability, Technical Writing
