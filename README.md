@@ -9,7 +9,7 @@ My current interests are in Data Science/Machine Learning and Finance! I have ex
 
 ## Education
 B.S., Applied and Computational Mathematics | University of California, Irvine (_Expected June 2025_)
-- Cumulative GPA: 3.49
+- Cumulative GPA: 3.51
 - Made the Deans Honor List 7 times
 - Relevant Coursework: Mathematical Machine Learning, Statistics for Data Science, Numerical Analysis, Mathematics of Finance, Fixed Income, Probability, Technical Writing
   
