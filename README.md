@@ -41,7 +41,7 @@ B.S., Applied and Computational Mathematics | University of California, Irvine (
 - Developed a report, following PEP8 style guidelines, on machine learning algorithms designed to predict and identify trends within a U.S. census dataset
 - Applied Logistic Regression and Ensemble Methods to predict a U.S. citizen's annual income, obtaining 82% and 86% accuracy.
 - Used PCA to determine a proportion of explained variance between features
-- Employed k-fold cross-validation and bootstrapping to generate multiple subsets of models
+- Employed k-fold cross-validation to generate multiple subsets of models
 
 **Predicting Interest in Vehicle Insurance (_January 2023 - March 2023_)**
 -	Implemented unsupervised and supervised learning algorithms to predict a consumer’s interest in vehicle insurance based on 10 different features
@@ -50,4 +50,4 @@ B.S., Applied and Computational Mathematics | University of California, Irvine (
 -	Analytically derived and offered mathematical intuition behind each model
 -	Supervised learning models achieved 86-88% accuracy
 
-Within these projects, I demonstrated an understanding of using Python/SQL as a programming language, LaTeX as a word processing software, and MATLAB to generate models and plots.
+Within these projects, I demonstrated an understanding of using Python as a programming language, LaTeX as a word processing software, and MATLAB to generate models and plots.
