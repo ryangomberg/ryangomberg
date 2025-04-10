@@ -15,8 +15,6 @@ B.S., Applied and Computational Mathematics | University of California, Irvine (
   
 ## Work and Volunteer Experience
 
-**Research - Algebraic Geometry (_March 2025 - June 2025_)**
-
 **Mentor | Math CEO (Organization) @ UC Irvine (_January 2024 - April 2024_)**
 - Engaged with high school students in low-income, diverse areas in inquiry-based activities with a strong emphasis on mathematics and other topics in STEM
 - Collaborated with other mentors in curating new activities and maintaining student involvement
@@ -31,6 +29,9 @@ B.S., Applied and Computational Mathematics | University of California, Irvine (
 - Helped three students achieve their academic goal
 
 ## Personal Initiatives/Projects
+
+**Research - Algebraic Geometry (_March 2025 - June 2025_)**
+
 **Notes: Mathematics of Finance and Machine Learning (_January 2025 - Present_)**
 - Compiled and formatted 50-page notes for two classes with formatted chapters using LaTeX
 - Designed self-curated diagrams and plots to accompany relevant material through PowerPoint and MATLAB
