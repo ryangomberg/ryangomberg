@@ -1,5 +1,5 @@
 [Undergraduate Work/Projects](https://ryangomberg.github.io/ryangomberg/Experience.html)     
-
+[Resume (Updated April 2025)](https://ryangomberg.github.io/ryangomberg/RyanGombergResumeApril2025.pdf)
 
 Welcome to my webpage! I am an Undergraduate Applied/Computational Mathematics Major at UC Irvine, graduating Spring 2025. Refer to the above links for my resume and work/projects! 
 
