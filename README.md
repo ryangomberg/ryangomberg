@@ -32,7 +32,7 @@ B.S., Applied and Computational Mathematics | University of California, Irvine (
 
 **Research - Algebraic Geometry (_March 2025 - June 2025_)**
 
-**Notes: Mathematics of Finance and Machine Learning (_January 2025 - Present_)**
+**Notes: Mathematics of Finance and Machine Learning (_January 2025 - April 2025_)**
 - Compiled and formatted 50-page notes for two classes with formatted chapters using LaTeX
 - Designed self-curated diagrams and plots to accompany relevant material through PowerPoint and MATLAB
 - Applied research, organization, and technical writing skills for a well-structured comprehensive study tool
