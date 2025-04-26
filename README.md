@@ -1,7 +1,7 @@
 [Undergraduate Work/Projects](https://ryangomberg.github.io/ryangomberg/Experience.html)     
 [Resume (Updated April 2025)](https://ryangomberg.github.io/ryangomberg/RyanGombergResumeApril2025.pdf)
 
-Welcome to my webpage! I am an Undergraduate Applied/Computational Mathematics Major at UC Irvine, graduating Spring 2025. Refer to the above links for my resume and work/projects! 
+Welcome to my webpage! I am an Undergraduate Applied/Computational Mathematics Major at UC Irvine, graduating June 2025. Refer to the above links for my resume and work/projects! 
 
 My current interests are in Data Science/Machine Learning and Finance! I have experience with working and handling projects in a personal and team setting, as well as managing timelines and task coordination. I am keen to leverage academic experience and contribute to successful projects in a professional environment.
 
