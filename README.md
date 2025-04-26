@@ -7,6 +7,8 @@ My current interests are in Data Science/Machine Learning and Finance! I have ex
 
 Whenever I have free time, I enjoy swimming, video games, watching shows/movies, and taking walks on the beach! :)
 
+Thank you for visiting my page and feel free to connect!
+
 ## Goals and Plans
 
 Upon completion of my Bachelor's Degree at UC Irvine, I would like to acquire at least 1 year of experience in the industry (ideally related to machine learning/finance), whether it be through internships or jobs, before considering a Master's program in Applied Mathmatics at San Diego State University or University of California, San Diego. These colleges were chosen for the ease of commuting and, additionally, both offer exceptional and rigorous programs for Applied Mathematics and Statistics. A thorough cost-benefit analysis was also considered, ensuring that a Master's degree is a reasonable financial investment for what I would get out of it. In the meantime, I would like to take on other projects for personal interest, namely related to machine learning practices, understanding databases, and learning visualization tools. If time allows, I would like to take 1-2 SOA Exams (Probability and Statistics for Risk Modeling preferred) in the summer and fall of this year.
