@@ -5,6 +5,18 @@ Welcome to my webpage! I am an Undergraduate Applied/Computational Mathematics M
 
 My current interests are in Data Science/Machine Learning and Finance! I have experience with working and handling projects in a personal and team setting, as well as managing timelines and task coordination. I am keen to leverage academic experience and contribute to successful projects in a professional environment.
 
+Whenever I have free time, I enjoy swimming, video games, watching shows/movies, and taking walks on the beach! :)
+
+## Goals and Plans
+
+Upon completion of my Bachelor's Degree at UC Irvine, I would like to acquire at least 1 year of experience in the industry (ideally related to machine learning/finance), whether it be through internships or jobs, before considering a Master's program in Applied Mathmatics at San Diego State University or University of California, San Diego. These colleges were chosen for the ease of commuting and, additionally, both offer exceptional and rigorous programs for Applied Mathematics and Statistics. A thorough cost-benefit analysis was also considered, ensuring that a Master's degree is a reasonable financial investment for what I would get out of it. In the meantime, I would like to take on other projects for personal interest, namely related to machine learning practices, understanding databases, and learning visualization tools. If time allows, I would like to take 1-2 SOA Exams (Probability and Statistics for Risk Modeling preferred) in the summer and fall of this year.
+
+A brief (and ideal) timeline can be summarized by the series of steps:
+- Now: Look into internship and/or work opportunities. Work on side-projects.
+- Summer 2025: If applicable, work in an internship program and/or entry-level job. Work on side-projects and prepare for SOA Exams.
+- Fall 2025 - Summer 2026: Take SOA Exams; work in an internship program and/or entry-level job.
+- Fall 2026+: Continue working, or start a Master's program at SDSU or UCSD. Participate in any university driven research in Applied Mathematics.
+
 #### Technical Skills: R, MATLAB, Python, Excel, LaTeX
 
 ## Education
