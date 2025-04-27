@@ -15,8 +15,8 @@ Upon completion of my Bachelor's Degree at UC Irvine, I would like to acquire at
 
 A brief (and ideal) timeline can be summarized by the series of steps:
 - Now: Look into internship and/or work opportunities. Work on side-projects.
-- Summer 2025: If applicable, work in an internship program and/or entry-level job. Work on side-projects and prepare for SOA Exams.
-- Fall 2025 - Summer 2026: Take SOA Exams; work in an internship program and/or entry-level job.
+- Summer 2025: If applicable, work at an internship program and/or entry-level job. Work on side-projects and prepare for SOA Exams.
+- Fall 2025 - Summer 2026: Take SOA Exams; work at an internship program and/or entry-level job.
 - Fall 2026+: Continue working, or start a Master's program at SDSU or UCSD. Participate in any university driven research in Applied Mathematics.
 
 #### Technical Skills: R, MATLAB, Python, Excel, LaTeX
