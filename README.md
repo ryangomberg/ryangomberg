@@ -3,7 +3,7 @@
 
 Welcome to my webpage! I am an Undergraduate Applied/Computational Mathematics Major at UC Irvine, graduating June 2025. Refer to the above links for my resume and work/projects! 
 
-My current interests are in Data Science/Machine Learning and Finance! I have experience with working and handling projects in a personal and team setting, as well as managing timelines and task coordination. I am keen to leverage academic experience and contribute to successful projects in a professional environment.
+My current interests are in Data Science/Machine Learning and Finance! With a strong foundation in applied mathematics and hands-on experience in machine learning (through academic projects), I bring both analytical rigor and practical coding ability to team-based projects. I am eager to leverage academic experience and contribute to impactful work in a professional environment.
 
 Whenever I have free time, I enjoy swimming, video games, watching shows/movies, and taking walks on the beach! :)
 
@@ -13,7 +13,7 @@ Thank you for visiting my page and feel free to connect!
 
 Upon completion of my Bachelor's Degree at UC Irvine, I would like to acquire at least 1 year of experience in the industry (ideally related to machine learning/finance), whether it be through internships or jobs, before considering a Master's program in Applied Mathmatics at San Diego State University or University of California, San Diego. These colleges were chosen for the ease of commuting and, additionally, both offer exceptional and rigorous programs for Applied Mathematics and Statistics. A thorough cost-benefit analysis was also considered, ensuring that a Master's degree is a reasonable financial investment for what I would get out of it. In the meantime, I would like to take on other projects for personal interest, namely related to machine learning practices, understanding databases, and learning visualization tools. If time allows, I would like to take 1-2 SOA Exams (Probability and Statistics for Risk Modeling preferred) in the summer and fall of this year.
 
-A brief (and ideal) timeline can be summarized by the series of steps:
+A brief (and ideal) timeline can be summarized by the following roadmap:
 - Now: Look into internship and/or work opportunities. Work on side-projects.
 - Summer 2025: If applicable, work at an internship program and/or entry-level job. Work on side-projects and prepare for SOA Exams.
 - Fall 2025 - Summer 2026: Take SOA Exams; work at an internship program and/or entry-level job.
@@ -22,7 +22,9 @@ A brief (and ideal) timeline can be summarized by the series of steps:
 By taking SOA Exams, I would be better prepared to assume an Acturial or Accounting position, which will be supported by my skills in programming (MATLAB/Python/R).
 
 One small project I have just started undertaking is to model a Boolean Neural Network using PyTorch, and using Neural Networks on the MNIST Image Processing Dataset. 
-Afterward, I would also like to work on a large dataset that combines data querying (SQL), exploratory data analysis, machine learning practices, and summarizing my findings using visualization software.
+Afterward, I would also like to work on a large dataset that combines data querying (SQL), exploratory data analysis, machine learning practices, and summarizing my findings using visualization software. This work reinforces my knowledge of SQL and Python, as alluded to in the Technical Skills Section. 
+
+More broadly, I wish to develop a well-rounded foundation in both analytic and technical skills while open myself to as many opportunities as possible--without stretching myself too thin.
 
 #### Technical Skills: R, MATLAB, Python, Excel, LaTeX
 
