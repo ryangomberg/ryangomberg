@@ -22,7 +22,7 @@ A brief (and ideal) timeline can be summarized by the following roadmap:
 By taking SOA Exams, I would be better prepared to assume an Acturial or Accounting position, which will be supported by my skills in programming (MATLAB/Python/R).
 
 One small project I have just started undertaking is to model a Boolean Neural Network using PyTorch and using Neural Networks on the MNIST Image Processing Dataset. 
-Afterward, I would also like to work on a large dataset that culminates data querying (SQL), exploratory data analysis, machine learning practices, and summarizing my findings using visualization software. This work reinforces my knowledge of SQL and Python, as alluded to in the Technical Skills Section. Ultimately, these projects will further prepare myself for more roles in machine learning/data science and improve my ability to learn new, advanced techniques on my own. 
+Afterward, I would also like to work on a large dataset that culminates data querying (SQL), exploratory data analysis, machine learning practices, and summarizing findings using visualization software. This work reinforces my knowledge of SQL and Python, as alluded to in the Technical Skills Section. Ultimately, these projects will further prepare myself for more roles in machine learning/data science and improve my ability to learn new, advanced techniques on my own. 
 
 More broadly, I wish to develop a well-rounded foundation in both analytic and technical skills while open myself to as many opportunities as possible--without stretching myself too thin.
 
