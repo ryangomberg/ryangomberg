@@ -19,6 +19,11 @@ A brief (and ideal) timeline can be summarized by the series of steps:
 - Fall 2025 - Summer 2026: Take SOA Exams; work at an internship program and/or entry-level job.
 - Fall 2026+: Continue working, or start a Master's program at SDSU or UCSD. Participate in any university driven research in Applied Mathematics.
 
+By taking SOA Exams, I would be better prepared to assume an Acturial or Accounting position, which will be supported by my skills in programming (MATLAB/Python/R).
+
+One small project I have just started undertaking is to model a Boolean Neural Network using PyTorch, and using Neural Networks on the MNIST Image Processing Dataset. 
+Afterward, I would also like to work on a large dataset that combines data querying (SQL), exploratory data analysis, machine learning practices, and summarizing my findings using visualization software.
+
 #### Technical Skills: R, MATLAB, Python, Excel, LaTeX
 
 ## Education
