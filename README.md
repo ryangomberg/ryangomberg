@@ -3,7 +3,7 @@
 
 Welcome to my webpage! I recently graduated with a Bachelors Degree in Applied and Computational Mathematics at UC Irvine. Refer to the above links for my resume and work/projects! 
 
-My current interests are in Data Science/Machine Learning and Finance! With a strong foundation in applied mathematics and hands-on experience in machine learning (through academic projects), I bring both analytical rigor and practical coding ability to team-based projects. I am eager to leverage academic experience and contribute to impactful work in a professional environment.
+My current interests are in Data Science/Machine Learning combined with Actuarial Sciences! With a strong foundation in applied mathematics and hands-on experience in machine learning (through academic projects), I bring both analytical rigor and practical coding ability to team-based projects. I am eager to leverage academic experience and contribute to impactful work in a professional environment.
 
 Whenever I have free time, I enjoy swimming, video games, watching shows/movies, and taking walks on the beach! :)
 
@@ -11,13 +11,11 @@ Thank you for visiting my page and feel free to connect!
 
 ## Goals and Plans
 
-Since the completion of my Bachelor's Degree at UC Irvine, I would like to acquire at least 1 year of experience in the industry (ideally related to machine learning/finance), whether it be through internships or jobs, before considering a Master's program in Applied Mathmatics at San Diego State University or University of California, San Diego. These colleges were chosen for the ease of commuting and, additionally, both offer exceptional and rigorous programs for Applied Mathematics and Statistics. A thorough cost-benefit analysis was also considered, ensuring that a Master's degree is a reasonable financial investment for what I would get out of it. In the meantime, I would like to take on other projects for personal interest, namely related to machine learning practices, understanding databases, and learning visualization tools. If time allows, I would like to take 1-2 SOA Exams (Probability and Statistics for Risk Modeling preferred) in the summer and fall of this year.
+Since the completion of my Bachelor's Degree at UC Irvine, I would like to acquire at experience in the industry (ideally related to machine learning/finance/actuary), whether it be through internships or jobs, before considering a Master's program in Applied Mathmatics at San Diego State University or University of California, San Diego. These colleges were chosen for the ease of commuting and, additionally, both offer exceptional and rigorous programs for Applied Mathematics and Statistics. A thorough cost-benefit analysis was also considered, ensuring that a Master's degree is a reasonable financial investment for what I would get out of it. In the meantime, I would like to take on other projects for personal interest, namely related to machine learning practices, understanding databases, and learning visualization tools. I am currently signed up for an Actuarial exam in November and plan on taking 1 or 2 more before the summer!
 
 A brief (and ideal) timeline can be summarized by the following roadmap:
-- Now: Look into internship and/or work opportunities. Work on side-projects.
-- Summer 2025: If applicable, work at an internship program and/or entry-level job. Work on side-projects and prepare for SOA Exams.
-- Fall 2025 - Summer 2026: Take SOA Exams; work at an internship program and/or entry-level job.
-- Fall 2026+: Continue working, or start a Master's program at SDSU or UCSD. Participate in any university driven research in Applied Mathematics.
+- Fall 2025 - Summer 2026: Take SOA Exams; work at an internship program and/or entry-level job OR work on self-motivated projects.
+- Fall 2026+: Continue working (if applicable) or start a Master's program at SDSU or UCSD. Participate in any university driven research in Applied Mathematics.
 
 By taking SOA Exams, I would be better prepared to assume an Acturial or Accounting position, which will be supported by my skills in programming (MATLAB/Python/R).
 
@@ -29,10 +27,10 @@ More broadly, I wish to develop a well-rounded foundation in both analytic and t
 #### Technical Skills: R, MATLAB, Python, Excel, LaTeX
 
 ## Education
-B.S., Applied and Computational Mathematics | University of California, Irvine (_Expected June 2025_)
-- Cumulative GPA: 3.51
-- Made the Deans Honor List 7 times
-- Relevant Coursework: Mathematical Machine Learning, Statistics for Data Science, Numerical Analysis, Mathematics of Finance, Fixed Income, Probability, Technical Writing
+B.S., Applied and Computational Mathematics | University of California, Irvine (_Graduated June 2025_)
+- Cumulative GPA: 3.54
+- Made the Deans Honor List 8 times
+- Relevant Coursework: Mathematical Machine Learning, Statistics for Data Science, Numerical Analysis, Mathematics of Finance, Fixed Income, Probability, Technical Writing, Real Analysis, Linear Algebra
   
 ## Work and Volunteer Experience
 
@@ -49,9 +47,21 @@ B.S., Applied and Computational Mathematics | University of California, Irvine (
 - Demonstrated various problem-solving methods to allow better understanding of a concept
 - Helped three students achieve their academic goal
 
-## Personal Initiatives/Projects
+## Recent Personal Initiatives/Projects
 
-**Research - Algebraic Geometry (_March 2025 - June 2025_)**
+**Quantitative Analysis Project** (May 2025)
+- Given recent OHLCV price history data in the S&P 500 index, identified equity factors and reasonable Key Performance Indicators (KPIs) while providing reasons for their individual strengths and weaknesses
+- Applied a risk-adjusted backtester to measure risk on historical data, using important metrics such as an Annualized Sharpe Ratio, Portfolio Return, and Cumulative Return
+- Found that a 3-month Momentum strategy has weak predictive power due do its consistently negative Sharpe Ratio and general downward trend of return, thus concluding that this strategy is not apt for portfolio investors
+- Suggested a potential option for binary regression modeling which tells investors whether they should invest in an asset based on factors such as KPIs or other previously mentioned metrics
+- The report was developed in Python and exported through LaTeX
+
+**Recommendation System Case Study** (May 2025)
+- Developed a report highlighting a recommendation system for Netflix movies based on two different user diagnostics
+- Applied multiple preprocessing strategies (standardization, merging, dropping values, sorting) and Exploratory Data Analysis to identity early trends within the aggregate data
+- Used Cosine Similarity to output movie recommendations whose description closely matches the input
+- Constructed a Recurrent Neural Network to output a movie recommendation based on the users viewing history
+- Analyzed results and suggested areas for improvement
 
 **Notes: Mathematics of Finance and Machine Learning (_January 2025 - April 2025_)**
 - Compiled and formatted 50-page notes for two classes with formatted chapters using LaTeX
@@ -65,11 +75,5 @@ B.S., Applied and Computational Mathematics | University of California, Irvine (
 - Used PCA to determine a proportion of explained variance between features
 - Employed k-fold cross-validation to generate multiple subsets of models
 
-**Predicting Interest in Vehicle Insurance (_January 2023 - March 2023_)**
--	Implemented unsupervised and supervised learning algorithms to predict a consumer’s interest in vehicle insurance based on 10 different features
--	Imported large scale data and applied statistical models to determine the strength of correlation between two or more factors
--	Identified the strengths and problems within each algorithm, and proposed ways to improve them
--	Analytically derived and offered mathematical intuition behind each model
--	Supervised learning models achieved 86-88% accuracy
 
-Within these projects, I demonstrated an understanding of using Python as a programming language, LaTeX as a word processing software, and MATLAB to generate models and plots.
+Within these projects, I demonstrated an understanding of using Python as a programming language, LaTeX as a word processing software, and MATLAB to generate models and plots. Moreover, I have strengthened my quantitative understanding in finance and machine learning in a pratical setting.
