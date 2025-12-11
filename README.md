@@ -1,5 +1,5 @@
 [Undergraduate Work/Projects](https://ryangomberg.github.io/ryangomberg/Experience.html)     
-[Resume (Updated November 2025)](https://ryangomberg.github.io/ryangomberg/RyanGombergResumeNov2025.pdf)
+[Resume (Updated December 2025)](https://ryangomberg.github.io/ryangomberg/RyanGombergResumeDec2025.pdf)
 
 Welcome to my webpage! I recently graduated with a Bachelors Degree in Applied and Computational Mathematics at UC Irvine. Refer to the above links for my resume and work/projects! 
 
@@ -48,6 +48,11 @@ B.S., Applied and Computational Mathematics | University of California, Irvine (
 - Helped three students achieve their academic goal
 
 ## Recent Personal Initiatives/Projects
+
+**Pricing and Severity Modeling Project** (December 2025)
+- Simulated a dataset in R to model policyholder characteristics and used Exploratory Data Analysis to verify and explore trends.
+- Implemented GLMs and regression models to approximate claim frequency and average claim severity. Ran diagonistics for statistical significance and goodness of fit over all models. More specifically, Poisson GLM and Negative Binomial for claim frequency and Gamma GLM, Lognormal, Weibull, Exponential for average severity.
+- Interpreted both model archetypes individually as well as their combined effect on total losses, both conceptually and quantitatively. 
 
 **Quantitative Analysis Project** (May 2025)
 - Given recent OHLCV price history data in the S&P 500 index, identified equity factors and reasonable Key Performance Indicators (KPIs) while providing reasons for their individual strengths and weaknesses
