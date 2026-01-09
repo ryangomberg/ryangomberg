@@ -1,5 +1,5 @@
 [Undergraduate Work/Projects](https://ryangomberg.github.io/ryangomberg/Experience.html)     
-[Resume (Updated December 2025)](https://ryangomberg.github.io/ryangomberg/RyanGombergResumeDec2025.pdf)
+[Resume (Updated January 2026)](https://ryangomberg.github.io/ryangomberg/RyanGombergResumeJan2026.pdf)
 
 Welcome to my webpage! I recently graduated with a Bachelors Degree in Applied and Computational Mathematics at UC Irvine. Refer to the above links for my resume and work/projects! 
 
@@ -17,12 +17,9 @@ A brief (and ideal) timeline can be summarized by the following roadmap:
 - Fall 2025 - Summer 2026: Take SOA Exams; work at an internship program and/or entry-level job OR work on self-motivated projects.
 - Fall 2026+: Continue working (if applicable) or start a Master's program at SDSU or UCSD. Participate in any university driven research in Applied Mathematics.
 
-By taking SOA Exams, I would be better prepared to assume an Acturial or Accounting position, which will be supported by my skills in programming (MATLAB/Python/R).
+By taking SOA Exams, I would be better prepared to assume an Acturial or Data Analyst/Scientist position, which will be supported by my skills in programming (MATLAB/Python/R).
 
-One small project I have just started undertaking is to model a Boolean Neural Network using PyTorch and using Neural Networks on the MNIST Image Processing Dataset. 
-Afterward, I would also like to work on a large dataset that culminates data querying (SQL), exploratory data analysis, machine learning practices, and summarizing findings using visualization software. This work reinforces my knowledge of SQL and Python, as alluded to in the Technical Skills Section. Ultimately, these projects will further prepare myself for more roles in machine learning/data science and improve my ability to learn new, advanced techniques on my own. 
-
-More broadly, I wish to develop a well-rounded foundation in both analytic and technical skills while open myself to as many opportunities as possible--without stretching myself too thin.
+More broadly, I wish to develop a well-rounded foundation in both analytic and technical skills while opening myself to as many opportunities as possible--without stretching myself too thin.
 
 #### Technical Skills: R, MATLAB, Python, Excel, LaTeX
 
@@ -49,10 +46,12 @@ B.S., Applied and Computational Mathematics | University of California, Irvine (
 
 ## Recent Personal Initiatives/Projects
 
-**Pricing and Severity Modeling Project** (December 2025)
+**Pricing and Severity Modeling Project** (December 2025 - January 2026)
 - Simulated a dataset in R to model policyholder characteristics and used Exploratory Data Analysis to verify and explore trends.
 - Implemented GLMs and regression models to approximate claim frequency and average claim severity. Ran diagonistics for statistical significance and goodness of fit over all models. More specifically, Poisson GLM and Negative Binomial for claim frequency and Gamma GLM, Lognormal, Weibull, Exponential for average severity.
-- Interpreted both model archetypes individually as well as their combined effect on total losses, both conceptually and quantitatively. 
+- Interpreted both model archetypes individually as well as their combined effect on total losses, both conceptually and quantitatively.
+- Developed interactive Excel dashboards to visualize relationships between prospective pricing models andhistorical claim data.
+- Synthesized insights into a PowerPoint presentation to communicate data-driven recommendations for pricing premiums to policyholders.
 
 **Quantitative Analysis Project** (May 2025)
 - Given recent OHLCV price history data in the S&P 500 index, identified equity factors and reasonable Key Performance Indicators (KPIs) while providing reasons for their individual strengths and weaknesses
