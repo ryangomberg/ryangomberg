@@ -1,5 +1,5 @@
 [Undergraduate Work/Projects](https://ryangomberg.github.io/ryangomberg/Experience.html)     
-[Resume (Updated January 2026)](https://ryangomberg.github.io/ryangomberg/RyanGombergResumeJan2026.pdf)
+[Resume (Updated February 2026)](https://ryangomberg.github.io/ryangomberg/RyanGombergResumeFeb2026.pdf)
 
 Welcome to my webpage! I recently graduated with a Bachelors Degree in Applied and Computational Mathematics at UC Irvine. Refer to the above links for my resume and work/projects! 
 
