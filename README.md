@@ -46,6 +46,11 @@ B.S., Applied and Computational Mathematics | University of California, Irvine (
 
 ## Recent Personal Initiatives/Projects
 
+**Credit Risk and Loan Amoritzation Modeling** (February - March 2026)
+- Implemented classification models to predict whether a borrower will default on a loan, ranking each on accuracy, F1-score, and AUC.
+- Under a 78% default/22% repaid class imbalance, a boosted tree model achieved the strongest predictability and separability with F1-scores of 0.96 (default) and 0.85 (repaid), as well as an 97.93% AUC.
+- Developed an amortization schedule and used the boosted tree probabilities to apply key credit risk metrics such as expected cash flow, expected loss, and sensitivity, to the dataset.
+
 **Pricing and Severity Modeling Project** (December 2025 - January 2026)
 - Simulated a dataset in R to model policyholder characteristics and used Exploratory Data Analysis to verify and explore trends.
 - Implemented GLMs and regression models to approximate claim frequency and average claim severity. Ran diagonistics for statistical significance and goodness of fit over all models. More specifically, Poisson GLM and Negative Binomial for claim frequency and Gamma GLM, Lognormal, Weibull, Exponential for average severity.
