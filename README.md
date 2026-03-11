@@ -49,7 +49,7 @@ B.S., Applied and Computational Mathematics | University of California, Irvine (
 **Credit Risk and Loan Amoritzation Modeling** (February - March 2026)
 - Exported a dataset from Kaggle describing how demographic, personal, and financial features influence a borrower's loan status.
 - Identified interactions between features and discovered strong multicollinearity between two of them, having VIFs of > 10.
-- Recognized that type Ierrors are more economically catastrophic than type II errors from the lender’s perspective.
+- Recognized that type I errors are more economically catastrophic than type II errors from the lender’s perspective.
 - Implemented classification models to predict whether a borrower will default on a loan, ranking each on accuracy, F1-score, and AUC.
 - Under a 78% default/22% repaid class imbalance, a boosted tree model achieved the strongest predictability and separability with F1-scores of 0.96 (default) and 0.85 (repaid), as well as an 97.93% AUC.
 - Developed an amortization schedule and used the boosted tree probabilities to apply key credit risk metrics such as expected cash flow, expected loss, and sensitivity, to the dataset.
