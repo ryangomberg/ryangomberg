@@ -46,6 +46,13 @@ B.S., Applied and Computational Mathematics | University of California, Irvine (
 
 ## Recent Personal Initiatives/Projects
 
+**Loan Amortization Scheduling and Payment Calendar** (March 2026)
+- Designed a VBA-based loan servicing system that generates amortization schedules and exports transaction data into a master table for aggregation and reporting.
+- Information is feeded into a UserForm, from then individual worksheets are created for each borrower, listing the payment date, payment amount, interest, and principal at each installment.
+- Additionally, upon input, each payment is directed to a month worksheet corresponding to its date, ranging from March 2026 - February 2027.
+- A dynamic loan calendar can help lenders monitor their loan portfolio, offering an organized approach in expecting upcoming payments as well as their verification.
+- Through the use of PivotTables and PivotCharts, lenders can measure their expected profit from loan payments each month or from each borrower.
+
 **Credit Risk and Loan Amoritzation Modeling** (February - March 2026)
 - Exported a dataset from Kaggle describing how demographic, personal, and financial features influence a borrower's loan status.
 - Identified interactions between features and discovered strong multicollinearity between two of them, having VIFs of > 10.
