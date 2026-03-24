@@ -11,13 +11,13 @@ Thank you for visiting my page and feel free to connect!
 
 ## Goals and Plans
 
-Since the completion of my Bachelor's Degree at UC Irvine, I would like to acquire at experience in the industry (ideally related to machine learning/finance/actuary), whether it be through internships or jobs, before considering a Master's program in Applied Mathmatics at San Diego State University or University of California, San Diego. These colleges were chosen for the ease of commuting and, additionally, both offer exceptional and rigorous programs for Applied Mathematics and Statistics. A thorough cost-benefit analysis was also considered, ensuring that a Master's degree is a reasonable financial investment for what I would get out of it. In the meantime, I would like to take on other projects for personal interest, namely related to machine learning practices, understanding databases, and learning visualization tools. I recently pass exams P and FM and will be taking SRM in May!
+Since the completion of my Bachelor's Degree at UC Irvine, I would like to acquire at experience in the industry (ideally related to machine learning/finance/actuary), whether it be through internships or jobs. In the meantime, I would like to take on other projects for personal interest, namely related to machine learning practices, understanding databases, and learning visualization tools. I recently pass exams P and FM and will be taking SRM in May!
 
 A brief (and ideal) timeline can be summarized by the following roadmap:
 - Fall 2025 - Summer 2026: Take SOA Exams; work at an internship program and/or entry-level job OR work on self-motivated projects.
 - Fall 2026+: Continue working (if applicable) or start a Master's program at SDSU or UCSD. Participate in any university driven research in Applied Mathematics.
 
-By taking SOA Exams, I would be better prepared to assume an Acturial or Data Analyst/Scientist position, which will be supported by my skills in programming (MATLAB/Python/R).
+By taking SOA Exams, I would be better prepared to assume an Acturial or Data Analyst/Scientist position, which will be supported by my skills in programming (Excel/Python/R).
 
 More broadly, I wish to develop a well-rounded foundation in both analytic and technical skills while opening myself to as many opportunities as possible--without stretching myself too thin.
 
