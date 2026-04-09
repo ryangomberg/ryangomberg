@@ -1,5 +1,5 @@
 [Undergraduate Work/Projects](https://ryangomberg.github.io/ryangomberg/Experience.html)     
-[Resume (Updated March 2026)](https://ryangomberg.github.io/ryangomberg/RyanGombergResumeMar2026.pdf)
+[Resume (Updated April 2026)](https://ryangomberg.github.io/ryangomberg/RyanGombergResumeApr2026.pdf)
 
 Welcome to my webpage! I recently graduated with a Bachelors Degree in Applied and Computational Mathematics at UC Irvine. Refer to the above links for my resume and work/projects! 
 
@@ -21,7 +21,7 @@ By taking SOA Exams, I would be better prepared to assume an Acturial or Data An
 
 More broadly, I wish to develop a well-rounded foundation in both analytic and technical skills while opening myself to as many opportunities as possible--without stretching myself too thin.
 
-#### Technical Skills: R, MATLAB, Python, Excel, LaTeX
+#### Technical Skills: R, Python, Excel, Access, LaTeX, MATLAB
 
 ## Education
 B.S., Applied and Computational Mathematics | University of California, Irvine (_Graduated June 2025_)
