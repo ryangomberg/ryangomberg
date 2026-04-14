@@ -11,7 +11,7 @@ Thank you for visiting my page and feel free to connect!
 
 ## Goals and Plans
 
-Since the completion of my Bachelor's Degree at UC Irvine, I would like to acquire at experience in the industry (ideally related to machine learning/finance/actuary), whether it be through internships or jobs. In the meantime, I would like to take on other projects for personal interest, namely related to machine learning practices, understanding databases, and learning visualization tools. I recently pass exams P and FM and will be taking SRM in May!
+Since the completion of my Bachelor's Degree at UC Irvine, I would like to acquire at experience in the industry (ideally related to data analysis/ML/finance/actuary), whether it be through internships or jobs. In the meantime, I would like to take on other projects for personal interest, namely related to machine learning practices, understanding databases, and learning visualization tools. I recently passed SOA exams P and FM and will be taking SRM in May!
 
 A brief (and ideal) timeline can be summarized by the following roadmap:
 - Fall 2025 - Summer 2026: Take SOA Exams; work at an internship program and/or entry-level job OR work on self-motivated projects.
@@ -25,7 +25,8 @@ More broadly, I wish to develop a well-rounded foundation in both analytic and t
 
 ## Education
 B.S., Applied and Computational Mathematics | University of California, Irvine (_Graduated June 2025_)
-- Cumulative GPA: 3.54
+- Cumulative GPA: 3.54/4.00
+- Major GPA: 3.50/4.00
 - Made the Deans Honor List 8 times
 - Relevant Coursework: Mathematical Machine Learning, Statistics for Data Science, Numerical Analysis, Mathematics of Finance, Fixed Income, Probability, Technical Writing, Real Analysis, Linear Algebra
   
