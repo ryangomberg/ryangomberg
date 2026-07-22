@@ -38,6 +38,14 @@ B.S., Applied and Computational Mathematics | University of California, Irvine (
 
 ## Recent Personal Initiatives/Projects
 
+**Insurance Pricing Project** (June 2026 - July 2026)
+See https://github.com/ryangomberg/France-Auto-Insurance-Modeling/blob/main/README.md 
+- Joined claim frequency/severity data and cleaned 650,000+ rows of auto insurance policies using PowerQuery and Excel, preparing the dataset for exploratory data analysis and GLM modeling.
+- Developed GLMs in R (Poisson, Negative Binomial, Gamma, log-link), to model exposure-adjusted claim frequency, severity, and pure premiums (Tweedie, log-link).
+- Constructed rating tables from fitted GLMs by estimating relativities for each categorical rating factor, enabling comparison of premium structures across different model specifications.
+- Employed overdispersion tests, validation sets, residual vs. fitted plots, QQ-plots, Lorenz curves, and Gini coefficient estimation to assess predictive performance and risk segmentation.
+- Found that the BonusMalus rating factor is a significant contributor to a policy's claim frequency and severity.
+
 **Loan Amortization Scheduling and Payment Calendar** (March 2026)
 - Designed a VBA-based loan servicing system that generates amortization schedules and exports transaction data into a master table for aggregation and reporting.
 - Information is feeded into a UserForm, from then individual worksheets are created for each borrower, listing the payment date, payment amount, interest, and principal at each installment.
@@ -53,38 +61,8 @@ B.S., Applied and Computational Mathematics | University of California, Irvine (
 - Under a 78% default/22% repaid class imbalance, a boosted tree model achieved the strongest predictability and separability with F1-scores of 0.96 (default) and 0.85 (repaid), as well as an 97.93% AUC.
 - Developed an amortization schedule and used the boosted tree probabilities to apply key credit risk metrics such as expected cash flow, expected loss, and sensitivity, to the dataset.
 
-**Pricing and Severity Modeling Project** (December 2025 - January 2026)
-- Simulated a dataset in R to model policyholder characteristics and used Exploratory Data Analysis to verify and explore trends.
-- Implemented GLMs and regression models to approximate claim frequency and average claim severity. Ran diagonistics for statistical significance and goodness of fit over all models. More specifically, Poisson GLM and Negative Binomial for claim frequency and Gamma GLM, Lognormal, Weibull, Exponential for average severity.
-- Interpreted both model archetypes individually as well as their combined effect on total losses, both conceptually and quantitatively.
-- Developed interactive Excel dashboards to visualize relationships between prospective pricing models andhistorical claim data.
-- Synthesized insights into a PowerPoint presentation to communicate data-driven recommendations for pricing premiums to policyholders.
 
-**Quantitative Analysis Project** (May 2025)
-- Given recent OHLCV price history data in the S&P 500 index, identified equity factors and reasonable Key Performance Indicators (KPIs) while providing reasons for their individual strengths and weaknesses
-- Applied a risk-adjusted backtester to measure risk on historical data, using important metrics such as an Annualized Sharpe Ratio, Portfolio Return, and Cumulative Return
-- Found that a 3-month Momentum strategy has weak predictive power due do its consistently negative Sharpe Ratio and general downward trend of return, thus concluding that this strategy is not apt for portfolio investors
-- Suggested a potential option for binary regression modeling which tells investors whether they should invest in an asset based on factors such as KPIs or other previously mentioned metrics
-- The report was developed in Python and exported through LaTeX
 
-**Recommendation System Case Study** (May 2025)
-- Developed a report highlighting a recommendation system for Netflix movies based on two different user diagnostics
-- Applied multiple preprocessing strategies (standardization, merging, dropping values, sorting) and Exploratory Data Analysis to identity early trends within the aggregate data
-- Used Cosine Similarity to output movie recommendations whose description closely matches the input
-- Constructed a Recurrent Neural Network to output a movie recommendation based on the users viewing history
-- Analyzed results and suggested areas for improvement
-
-**Notes: Mathematics of Finance and Machine Learning (_January 2025 - April 2025_)**
-- Compiled and formatted 50-page notes for two classes with formatted chapters using LaTeX
-- Designed self-curated diagrams and plots to accompany relevant material through PowerPoint and MATLAB
-- Applied research, organization, and technical writing skills for a well-structured comprehensive study tool
-- Publicized my work on GitHub should anyone wish to access and/or recreate diagrams or plots
-
-**Machine Learning on Adult Census Income Dataset (_January 2025 - March 2025_)**
-- Developed a report, following PEP8 style guidelines, on machine learning algorithms designed to predict and identify trends within a U.S. census dataset
-- Applied Logistic Regression and Ensemble Methods to predict a U.S. citizen's annual income, obtaining 82% and 86% accuracy.
-- Used PCA to determine a proportion of explained variance between features
-- Employed k-fold cross-validation to generate multiple subsets of models
 
 
 Within these projects, I demonstrated an understanding of using Python as a programming language, LaTeX as a word processing software, and MATLAB to generate models and plots. Moreover, I have strengthened my quantitative understanding in finance and machine learning in a pratical setting.
