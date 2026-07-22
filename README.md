@@ -39,6 +39,7 @@ B.S., Applied and Computational Mathematics | University of California, Irvine (
 ## Recent Personal Initiatives/Projects
 
 **Insurance Pricing Project** (June 2026 - July 2026)
+
 See https://github.com/ryangomberg/France-Auto-Insurance-Modeling/blob/main/README.md 
 - Joined claim frequency/severity data and cleaned 650,000+ rows of auto insurance policies using PowerQuery and Excel, preparing the dataset for exploratory data analysis and GLM modeling.
 - Developed GLMs in R (Poisson, Negative Binomial, Gamma, log-link), to model exposure-adjusted claim frequency, severity, and pure premiums (Tweedie, log-link).
