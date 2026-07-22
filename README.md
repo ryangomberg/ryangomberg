@@ -12,7 +12,7 @@ Thank you for visiting my page and feel free to connect!
 
 Since the completion of my Bachelor's Degree at UC Irvine, I would like to acquire at experience in the industry (ideally related to data analysis/ML/finance/actuary), whether it be through internships or jobs. In the meantime, I would like to take on other projects for personal interest, namely related to machine learning practices, understanding databases, and learning visualization tools. 
 
-#### Technical Skills: R, Python, Excel, Access, LaTeX, MATLAB
+#### Technical Skills: R, Python, Excel (& VBA, PowerQuery), Access, PostgreSQL, LaTex
 
 ## Education
 B.S., Applied and Computational Mathematics | University of California, Irvine (_Graduated June 2025_)
